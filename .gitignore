@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+persona.md
+.estado/
+amostras-de-voz/
+__pycache__/
+.DS_Store
+cerebro/
+persona-*.md
+backups/
+*.jarvis-backup-*
+*.jarvis-trash-*
